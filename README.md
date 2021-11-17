@@ -16,18 +16,23 @@
     - Master in National Security Administration, Executive Class (2020-2021)
 - United States Department of State International Visitor Leadership Program
     - Digital Tech for Ease of Doing Business and Transparency in Governance (Nov 2021)
+- Massachusetts Institute of Technology on MIT xPro
+    - Data Science and Big Data Analytics: Making Data-Driven Decisions (May-Jun 2020)
+- University of Virginia on Coursera
+    - Agile Development Specialization (Jul 2019-Jan 2020)
+    - _Capstone_: Online registration and updating system for taxpayers
 - Harvard University, John F. Kennedy School of Government
     - Digital Transformation in Government (Mar 2019)
     - Comparative Tax Policy and Administration (Aug 2018) 
 - Japan Ministry of Finance, Policy Research Institute
     - Seminar on Economic Policies (May-Jun 2019)
-<!---
-- Massachusetts Institute of Technology on MIT xPro
-    - Data Science and Big Data Analytics: Making Data-Driven Decisions (May-Jun 2020)
-- University of Virginia on Coursera**
-    - Agile Development Specialization (Jul 2019-Jan 2020)
-    - _Capstone_: Online registration and updating system for taxpayers
--->
+
+
+## Skills
+- Programming languages: `Python`, `SQL`, `R`, `Stata`
+- Platforms/tools: `Github`, `GCP`, `Google Big Query`, `PySpark`
+- Methods: Causal inference, econometrics
+- Language: English, Filipino
 
 
 ## International Organization Experience
@@ -125,10 +130,6 @@
 - Philippine Institute for Development Studies
     - Impact Evaluation using Stata (10-13 Nov 2014)
 
-<!---
-## Skills
-
-
 
 ## Publications
 
@@ -138,77 +139,19 @@
 - Lee, M. and Abdon, A. 2013. [Singapore](http://www.adb.org/sites/default/files/ado2013-singapore.pdf) in _Asian Development Outlook 2013_. Asian Development Bank, Manila. 
 
 **Journals**
-- Felipe, J., Kumar, U., and Abdon, A. 2014. \href{http://www.tandfonline.com/doi/abs/10.1080/13600818.2014.950560?#.VHFgBYvvlUQ}{``As You Sow so Shall You Reap: From Capabilities to Opportunities."} \emph{Oxford Development Studies}, 42(4):488--515. 
-	%\href{http://www.voxeu.org/index.php?q=node/5333}{VoxEU.org, 22 Jul 2010}.
-	%Download working paper version \href{http://www.levyinstitute.org/publications/?docid=1295}{\emph{here}}. 
-
-	\item Felipe, J., Kumar, U., and {\bf Abdon, A.} 2014. \href{ http://www.sciencedirect.com/science/article/pii/S0922142513000601}{``How Rich Countries Became Rich and Why Poor Countries Remain Poor: It's the Economic Structure \ldots Duh!"} \emph{Japan and the World Economy International Journal of Theory and Policy}, 29:46--58. 
-	%Download working paper version \href{http://www.levyinstitute.org/pubs/wp_644.pdf}{\emph{here.}}
-	%ISSN 0922-1425
-    
-	\item Felipe, J., Kumar, U., and {\bf Abdon, A.} 2013. \href{http://www.sciencedirect.com/science/article/pii/S0147596713000036}{``Exports, Capabilities, and Industrial Policy in India."} \emph{Journal of Comparative Economics}, 41(3):939--956. 
-	%Download working paper version \href{http://www.levyinstitute.org/publications/?docid=1335}{\emph{here.}}
-   	%ISSN 0147-5967
- 
-	\item Felipe, J., Kumar, U., Usui, N. and {\bf Abdon, A.} 2013. \href{http://cje.oxfordjournals.org/content/37/4/791.abstract}{``Why has China Succeeded? And Why it Will Continue to Do So."} \emph{Cambridge Journal of Economics}, 37(4):791--818.  \href{http://www.voxeu.org/index.php?q=node/5436}{VoxEU.org, 26 Aug 2010.}
-	%Download working paper version \href{http://www.levyinstitute.org/publications/?docid=1292}{\emph{here.}}
-	%ISSN 1464-3545
-    
-	\item Felipe, J., Kumar, U., and {\bf Abdon, A.} 2012.  \href{http://www.sciencedirect.com/science/article/pii/S0889158311000682}{``Using Capabilities to Project Growth, 2010--30."} \emph{Journal of the Japanese and International Economies}, 26(1): 153--166. 
-	%Download working paper version \href{http://www.levyinstitute.org/publications/?docid=1290}{\emph{here.}}
- 	%ISSN 0889-1583
-
-	\item Felipe, J., Kumar, U., {\bf Abdon, A.}, and Bacate, M. 2012.  \href{http://www.sciencedirect.com/science/article/pii/S0954349X11000567}{``Product Complexity and Economic Development."}\emph{Structural Change and Economic Dynamics}, 23 (1):36--68.  
-	%Download working paper version \href{http://www.levyinstitute.org/pubs/wp_616.pdf}{\emph{here.}}
-	%ISSN 0954-349X
-
-	\item Vaughn, M. G., Perron, B. E.,{\bf Abdon, A.}, Olate, R., Groom, R., and Wu, L. 2012. \href{http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3480725/}{``Correlates of Handgun Carrying among Youth in the United States."} \emph{Journal of Interpersonal Violence}, 27(10):2003--2021.
-	% ISSN: 1552-6518
-
-	\item Perron, B.E., Ahmedani, B.K., Vaughn, M.G., Glass, J., {\bf Abdon, A.}, and Wu, L. 2012. \href{http://www.ncbi.nlm.nih.gov/pubmed/21834614}{``Use of Salvia Divinorum in a Nationally Representative Sample."} \emph{American Journal of Drug and Alcohol Abuse}, 38(1):108--113.
- 	%ISSN: 0095-2990
-
- 	\item Felipe, J., Usui, N., and {\bf Abdon, A.} 2011. \href{http://www.worldscientific.com/doi/abs/10.1142/S1793993311000300?journalCode=jicep}{``Rethinking the Growth Diagnostics Approach: Questions from the Practitioners."} \emph{Journal of International Commerce, Economics, and Policy}, 2(2):251--276. 
-	%Download working paper version \href{http://www.adb.org/publications/rethinking-growth-diagnostics-approach-questions-practitioners}{\emph{here.}}
-	%ISSN: 1793-9941
-	
-	\item Vaughn, M. G., Shook, J. J., Perron, B. E., {\bf Abdon, A.}, and Ahmendani, B. 2011. \href{http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3286610/}{``Patterns and Correlates of Illicit Drug Selling among Youth in the USA"} \emph{Substance Abuse and Rehabilitation}, 2011(2): 103--111.
-	%ISSN: 	1179-8467
-
-	\item {\bf Abdon, A.} and Hernando, R. 2008.  \href{http://www.bsp.gov.ph/publications/regular_bsrev08.asp}{``What Drives the Peso's REER Index? Some Implications on Competitiveness."}\emph{Banko Sentral Review}, 2008. 
-\end{bibsection}   
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%Working Papers and Other Publications%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
- \section{Working Papers and Other Publications}
- \vspace{-.1275in}
- \begin{bibsection}
- 	\item  {\bf Abdon, A.}, Estrada, G., Lee, M., Park, D. 2014. \href{http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2515779}{``Fiscal Policy and Growth in Developing Asia"} Asian Development Bank Economics Working Paper No. 412. 
-	
-	\item Felipe, J., {\bf Abdon, A.}, and Kumar, U. 2012. \href{http://www.levyinstitute.org/publications/?docid=1526}{``Tracking the Middle-Income Trap: What is it, Who is in it, and Why?"} Levy Economics Institute Working Paper No. 715.
-	
-	\item {\bf Abdon, A.} 2011. ``Where are the Poor? Using the National Household Targeting System for Poverty Reduction to Locate the Poor." World Bank Office Manila. Unpublished.
-	
-	\item {\bf Abdon, A.} and Felipe, J. 2011. \href{http://www.fundacionideas.es/sites/default/files/pdf/DP-Product_Space-I.pdf}{``The Product Space: What Does It Say About the Opportunities for Growth and Structural Transformation of Sub-Saharan Africa?"} IDEAS Foundation Working Paper 05/2011. Madrid, Spain.
-	
-	\item Usui, N., and {\bf Abdon, A.} 2010. \href{http://www.adb.org/Documents/Working-Papers/2010/Economics-WP200.pdf?}{``Structural Transformation in the Kyrgyz Republic: Engineering Future Paths of Capability Accumulation."} Asian Development Bank Economics and Research Department Working Paper No. 200.  
-	
-	\item Peabody, J., Solon, O., Butrick, E., Quimbo, S., Florentino, J., Bacate, M., {\bf Abdon, A.}(\emph{editorial team)}. \href{http://qids.ph/papers/policy-briefs/}{Quality Improvement Demonstration Study Policy Briefs}
-\end{bibsection}   
-	\begin{innerlist}
-		\item[] \hspace{0.14 in}Underutilization of PhilHealth benefits for hospitalization, Mar 2008 
-		\item[] \hspace{0.14 in}Improved Access to Health Care for those most in Need, Jul 2007  
-		\item[] \hspace{0.14 in}Improving Utilization Patterns through the QIDS Access Intervention, May 2007 
-		\item[] \hspace{0.14 in}Physician Satisfaction and the QIDS Bonus Scheme, May 2007
-		\item[] \hspace{0.14 in}QIDS Commences Round 2 Surveys, Oct 2006
-		\item[] \hspace{0.14 in}Lead exposure among Visayan children, May 2006
-		\item[] \hspace{0.14 in}PhilHealth Support in QIDS Sites, Apr 2006
-		\item[] \hspace{0.14 in}Has quality of care improved? (Part I and II), Sep and Nov 2005  
-	\end{innerlist}
+- Felipe, J., Kumar, U., and Abdon, A. 2014. [As You Sow so Shall You Reap: From Capabilities to Opportunities](http://www.tandfonline.com/doi/abs/10.1080/13600818.2014.950560?#.VHFgBYvvlUQ). _Oxford Development Studies_, 42(4):488-515. 
+- Felipe, J., Kumar, U., and Abdon, A. 2014. [How Rich Countries Became Rich and Why Poor Countries Remain Poor: It's the Economic Structure ... Duh!]( http://www.sciencedirect.com/science/article/pii/S0922142513000601). _Japan and the World Economy International Journal of Theory and Policy_, 29:46-58.    
+- Felipe, J., Kumar, U., and Abdon, A. 2013. [Exports, Capabilities, and Industrial Policy in India](http://www.sciencedirect.com/science/article/pii/S0147596713000036). _Journal of Comparative Economics_, 41(3):939-956. 
+- Felipe, J., Kumar, U., Usui, N. and Abdon, A. 2013. [Why has China Succeeded? And Why it Will Continue to Do So.](http://cje.oxfordjournals.org/content/37/4/791.abstract). _Cambridge Journal of Economics_, 37(4):791-818. [VoxEU.org](http://www.voxeu.org/index.php?q=node/5436)
+- Felipe, J., Kumar, U., and Abdon, A. 2012. [Using Capabilities to Project Growth, 2010-30](http://www.sciencedirect.com/science/article/pii/S0889158311000682). _Journal of the Japanese and International Economies_, 26(1): 153-166. 
+- Felipe, J., Kumar, U., Abdon, A., and Bacate, M. 2012. [Product Complexity and Economic Development](http://www.sciencedirect.com/science/article/pii/S0954349X11000567). _Structural Change and Economic Dynamics_, 23 (1):36-68.  
+- Vaughn, M. G., Perron, B. E., Abdon, A., Olate, R., Groom, R., and Wu, L. 2012. [Correlates of Handgun Carrying among Youth in the United States](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3480725/). _Journal of Interpersonal Violence_, 27(10):2003-2021.
+- Perron, B.E., Ahmedani, B.K., Vaughn, M.G., Glass, J., Abdon, A., and Wu, L. 2012. [Use of Salvia Divinorum in a Nationally Representative Sample](http://www.ncbi.nlm.nih.gov/pubmed/21834614). _American Journal of Drug and Alcohol Abuse_, 38(1):108-113.
+- Felipe, J., Usui, N., and Abdon, A. 2011. [Rethinking the Growth Diagnostics Approach: Questions from the Practitioners](http://www.worldscientific.com/doi/abs/10.1142/S1793993311000300?journalCode=jicep). _Journal of International Commerce, Economics, and Policy_, 2(2):251-276. 
+- Vaughn, M. G., Shook, J. J., Perron, B. E., Abdon, A., and Ahmendani, B. 2011. [Patterns and Correlates of Illicit Drug Selling among Youth in the USA](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3286610/). _Substance Abuse and Rehabilitation_, 2011(2): 103-111.
+- Abdon, A. and Hernando, R. 2008.  [What Drives the Peso's REER Index? Some Implications on Competitiveness](http://www.bsp.gov.ph/publications/regular_bsrev08.asp). _Banko Sentral Review_, 2008. 
 
 
--->
 ## Service
 - Reservist (LT COL), Philippine Army  
 - Reviewer, Eurasian Economic Review, Springer
