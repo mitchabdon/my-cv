@@ -131,7 +131,7 @@
     - Data management and processing using Stata (30 Oct; 7, 21, 28 Nov; 5 Dec 2014)
     - Data analysis using Stata (14, 26 Jan; 2, 12, 18, 20, 24 Feb 2015)
 - Department of Social Welfare and Development	
-    - Introduction to Results-Based Monitoring \& Evaluation (18-20 Nov 2014)
+    - Introduction to Results-Based Monitoring and Evaluation (18-20 Nov 2014)
 - Philippine Institute for Development Studies
     - Impact Evaluation using Stata (10-13 Nov 2014)
 
