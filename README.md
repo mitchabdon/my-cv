@@ -1,5 +1,3 @@
-# CV
-
 ## Education
 
 - University of California Berkeley, School of Information
@@ -31,8 +29,8 @@
 
 
 ## Skills
-- Programming languages: `Python`, `SQL`, `R`, `Stata`
-- Platforms/tools: `Github`, `GCP`, `Google Big Query`, `PySpark`
+- Programming languages: Python, SQL, R, Stata
+- Platforms/tools: Github, GCP, Google Big Query, PySpark
 - Methods: Causal inference, econometrics
 - Language: English, Filipino
 
