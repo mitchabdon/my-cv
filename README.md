@@ -1,6 +1,7 @@
 ## Contact
 <mitchabdon@berkeley.edu>  
-[LinkedIn](https://www.linkedin.com/in/mitchabdon/)
+[LinkedIn](https://www.linkedin.com/in/mitchabdon/)  
+[Blog: StataDaily](https://www.statadaily.com/)
 
 
 ## Education
@@ -93,6 +94,11 @@
     - Conceptualized the design and development of the Fiscal Incentives Registration and Monitoring System (FIRMS) of the Fiscal Incentives Review Board (FIRB)
     - Coordinated with development partners on technical assistance provided for the tax policy and administration reform efforts
     - Communicated the tax reform program and its impact to various stakeholders 
+
+**Department of Social Welfare and Development**
+- Economist (22 May-21 Nov 2014) 
+    - Co-led the impact evaluation of the Pantawid Pamilyang Pilipino Program
+    - [Keeping children healthy and in school](https://pantawid.dswd.gov.ph/wp-content/uploads/2018/07/Pantawid-Pamilya-Impact-Evaluation-2014-Report-Final.pdf): Evaluating the Pantawid Pamilya Using Regression Discontinuity Design, Second Wave Impact Evaluation Results
 
 
 ## Industry Experience
