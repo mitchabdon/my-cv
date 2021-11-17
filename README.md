@@ -1,3 +1,8 @@
+## Contact
+<mitchabdon@berkeley.edu>  
+[LinkedIn](https://www.linkedin.com/in/mitchabdon/)
+
+
 ## Education
 
 - University of California Berkeley, School of Information
