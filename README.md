@@ -11,7 +11,7 @@
 >
 > Co-authored in peer-reviewed journals, including _Oxford Development Studies_, _Journal of Comparative Economics_, and _Cambridge Journal of Economics_.
 >
-> Data scientist focused on _privacy engineering_, _research design_, _causal inference_, and _prediction_.
+> Data scientist focused on _privacy engineering_, _experimental design_, _causal inference_, and _prediction_.
 
 ## Education
 
@@ -49,7 +49,7 @@
 | --- 			| --- 										|
 | Programming 		| Stata, R, Python, SQL, Matlab 						|
 | Platforms/tools 	| Github, Jupyter Notebook, GCP, Google Big Query, PySpark, Cloudera, Docker 	|
-| Methods 		| Causal Inference, Prediction, Econometrics 					|
+| Methods 		| Experimental Design, Causal Inference, Prediction, Econometrics 		|
 | Visualization		| Tableau, PowerBI, Stata, R, Python 						|
 | Typesetting		| Markdown, LaTex 								|
 | Language 		| English, Filipino (Tagalog, Visayan, Ilocano, Hiligaynon)			| 
