@@ -11,7 +11,7 @@
 >
 > Co-authored in peer-reviewed journals, including _Oxford Development Studies_, _Journal of Comparative Economics_, and _Cambridge Journal of Economics_.
 >
-> Data scientist focused on _research design_, _modeling_, and _causal inference_.
+> Data scientist focused on _research design_, _modeling_, _causal inference_, and _prediction_.
 
 ## Education
 
@@ -45,12 +45,12 @@
 
 ## Skills
 
-| Type | Skills |
-| --- | --- |
-| Programming languages: | Stata, R, Python, SQL, Matlab |
-| Platforms/tools: | Github, GCP, Google Big Query, PySpark, Cloudera, Docker |
-| Methods: | Research Design, Causal Inference, Econometrics |
-| Language: | English, Filipino (Tagalog, Visayan, Ilocano, Hiligaynon)| 
+| Type 				| Skills |
+| --- 				| --- |
+| Programming languages: 	| Stata, R, Python, SQL, Matlab |
+| Platforms/tools: 		| Github, GCP, Google Big Query, PySpark, Cloudera, Docker |
+| Methods: 			| Research Design, Causal Inference, Prediction, Econometrics |
+| Language: 			| English, Filipino (Tagalog, Visayan, Ilocano, Hiligaynon)| 
 
 ## International Organization Experience
 
