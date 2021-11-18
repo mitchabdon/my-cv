@@ -1,7 +1,6 @@
 ## Contact
 <mitchabdon@berkeley.edu>  
-[LinkedIn](https://www.linkedin.com/in/mitchabdon/)  
-[Blog: StataDaily](https://www.statadaily.com/)
+[LinkedIn](https://www.linkedin.com/in/mitchabdon/)  | [Blog: StataDaily](https://www.statadaily.com/)
 
 ## Summary
 > 17+ years experience working with data for development, public policy, planning, and governance. 
@@ -16,31 +15,31 @@
 
 ## Education
 
-- University of California - Berkeley, School of Information
+- **University of California - Berkeley**, School of Information
     - Master of Information and Data Science (2021-2022)
-- Department of Defense, National Defense College of the Philippines
+- **Department of Defense**, National Defense College of the Philippines
     - Master in National Security Administration, Executive Class (2020-2021)    
-- University of the Philippines - Diliman, School of Economics
+- **University of the Philippines - Diliman**, School of Economics
     - MA Economics (2002-2004)  
     - _Recipient_, Philippine Center for Economic Development (PCED) Scholarship
-- University of the Philippines - Diliman, Institute of Mathematics
+- **University of the Philippines - Diliman**, Institute of Mathematics
     - BS Mathematics (1997-2001)  
     - _Recipient_, Department of Science and Technology (DOST) Scholarship
 
 
 ## Executive Courses
 
-- United States Department of State, International Visitor Leadership Program
+- **United States Department of State, International Visitor Leadership Program**
     - Digital Tech for Ease of Doing Business and Transparency in Governance (Nov 2021)
-- Massachusetts Institute of Technology on MIT xPro
+- **Massachusetts Institute of Technology** on MIT xPro
     - Data Science and Big Data Analytics: Making Data-Driven Decisions (May-Jun 2020)
-- University of Virginia on Coursera
+- **University of Virginia** on Coursera
     - Agile Development Specialization (Jul 2019-Jan 2020)
     - _Capstone_: Online registration and updating system for taxpayers
-- Harvard University, John F. Kennedy School of Government
+- **Harvard University**, John F. Kennedy School of Government
     - Digital Transformation in Government (Mar 2019)
     - Comparative Tax Policy and Administration (Aug 2018) 
-- Japan Ministry of Finance, Policy Research Institute
+- **Japan Ministry of Finance**, Policy Research Institute
     - Seminar on Economic Policies (May-Jun 2019)
 
 
@@ -53,7 +52,7 @@
 
 ## International Organization Experience
 
-**World Bank**
+### World Bank
 - Consultant, _Technical Advisor_ (17 Mar 2021-present)
     - Provides technical guidance on the implementation of the national ID system, digital transformation of social protection delivery, and monitoring and evaluation of fiscal incentives.	
 - Consultant, _Economist_ (14 Jul 2014-31 Jun 2016) 
@@ -62,7 +61,7 @@
     - Conducted learning sessions on data management and analysis for DSWD  
     - Wrote a short note on social protection targeting: _Where are the Poor? Using the National Household Targeting System for Poverty Reduction to Locate the Poor_
 	
-**Asian Development Bank**
+### Asian Development Bank
 - Consultant, _Economist_ (14 Nov 2017-14 March 2018), Philippine Country Office 
     - Provided overall guidance and technical support to the Department of Finance in the area of economic and statistical research, including estimation of the impact of the proposed tax reforms on households and on the macroeconomy
     - Conducted workshops on statistical and econometric analysis to DOF staff 
@@ -77,7 +76,7 @@
     - Office of Regional Economic Integration, Economics and Research Department
     - Provided research support to research undertaken by professional staff on topics related to monetary policy and economic integration
 
-**USAID-Facilitating Public Investment**
+### USAID-Facilitating Public Investment
 - _Monitoring and Evaluation Specialist_ (14 Mar 2016-14 Nov 2017)
     - Provided technical support to the DOF in pushing for the government's comprehensive tax reform agenda, particularly, in estimating the impact of the proposed tax reform on households
     - Conducted training on data management and analysis to DOF staff
@@ -86,17 +85,16 @@
     - Developed algorithms to identify misclassification and undervaluation of imports
     - Conducted training on data management and analysis
  
-**Asia Foundation**
+### Asia Foundation
 - Consultant, _Economist_ (4 Dec 2014-30 Jun 2015) 
     - Developed a concept note on rental housing voucher subsidy system for informal settler families along Metro Manila waterways 
 
 
 ## Government Experience
 
-**Department of Finance**
-- Strategy, Economics, and Results Group (SERG), Fiscal Economics Research Office   
-- _Director IV_ (15 Mar 2018-15 Mar 2021)
-
+### Department of Finance
+  
+- _Director IV_ (15 Mar 2018-15 Mar 2021),Strategy, Economics, and Results Group (SERG), Fiscal Economics Research Office 
     - Led the conduct of research and analytics to support the tax reform program, including estimation of the impact of reforms on the economy and the people and cost-benefit analysis of fiscal incentives
     - Supported the implementation of the national ID system in improving the registration processes and in analyzing registration data 	
     - Initiated activities towards digital transformation at the Bureau of Internal Revenue (BIR)	
@@ -104,15 +102,15 @@
     - Coordinated with development partners on technical assistance provided for the tax policy and administration reform efforts
     - Communicated the tax reform program and its impact to various stakeholders 
 
-**Department of Social Welfare and Development**
-- Economist (22 May-21 Nov 2014) 
+### Department of Social Welfare and Development
+- Consultant, _Economist_ (22 May-21 Nov 2014) 
     - Co-led the impact evaluation of the Pantawid Pamilyang Pilipino Program
     - _[Keeping children healthy and in school](https://pantawid.dswd.gov.ph/wp-content/uploads/2018/07/Pantawid-Pamilya-Impact-Evaluation-2014-Report-Final.pdf): Evaluating the Pantawid Pamilya Using Regression Discontinuity Design, Second Wave Impact Evaluation Results_
 
 
 ## Industry Experience
 
-**Institute for Development and Econometric Analysis, Inc.**
+### Institute for Development and Econometric Analysis, Inc.
 - Director for Research (11 Nov 2004-15 Nov 2007)
     - Led the development and maintenance of a small macroeconomic forecasting model for the Philippine economy 
     - Managed client-specific research projects
@@ -121,22 +119,22 @@
 
 ## Teaching Experience
 
-**Kalayaan College**
+### Kalayaan College
 - Assistant Professorial Lecturer
     - Elements of Mathematical Economics (1st Sem AY 2007-08; 1st and 2nd Sem AY 2005-06; 1st Sem AY 2003-04)
     - Introduction to Econometrics (1st and 2nd Sem AY 2005-06; 2nd Sem AY 2004-05) 
 
-**University of the Philippines, School of Economics**
+### University of the Philippines, School of Economics
 - Teaching Fellow
     - Introduction to Microeconomics (1st and 2nd Sem AY 2005-06; 2nd Sem AY 2003-04)
     - Introduction to Macroeconomics (2nd Sem AY 2004-05; 1st Sem AY 2003-04)
 
-**Development Academy of the Philippines**
+### Development Academy of the Philippines
 - Guest Instructor
     - Poverty and Poverty Measures for Policy Makers (21 Oct 2006)
     - Introduction to Microeconomics for Policy Makers (6-7 Mar 2006)
     
-***Resource Person***
+### Resource Person
 - Bureau of Local Government Finance
     - Introduction to Stata (25-29 Jan 2016)
 - Philippine Institute for Development Studies and International Initiative for Impact Evaluation (3ie)
@@ -153,12 +151,12 @@
 
 ## Publications
 
-**Book Chapters**
+### Book Chapters
 - Lee, M. and Abdon, A. 2014. [Singapore](http://www.adb.org/sites/default/files/ado2014-singapore.pdf) in _Asian Development Outlook 2014_. Asian Development Bank, Manila.
 - Lee, M., Park, D., Abdon, A., and Estrada, G. 2013.  [Economic Impact of Eurozone Sovereign Debt Crisis on Developing Asia](http://www.emeraldinsight.com/doi/abs/10.1108/S1569-3767(2013)0000014013) in Bang Nam Jeon, Maria Pia Olivero (ed.) _Global Banking, Financial Markets and Crises_, _International Finance Review_, 14:271-304). Emerald Group Publishing Limited. 
 - Lee, M. and Abdon, A. 2013. [Singapore](http://www.adb.org/sites/default/files/ado2013-singapore.pdf) in _Asian Development Outlook 2013_. Asian Development Bank, Manila. 
 
-**Journals**
+### Journals
 - Felipe, J., Kumar, U., and Abdon, A. 2014. [As You Sow so Shall You Reap: From Capabilities to Opportunities](http://www.tandfonline.com/doi/abs/10.1080/13600818.2014.950560?#.VHFgBYvvlUQ). _Oxford Development Studies_, 42(4):488-515. 
 - Felipe, J., Kumar, U., and Abdon, A. 2014. [How Rich Countries Became Rich and Why Poor Countries Remain Poor: It's the Economic Structure ... Duh!]( http://www.sciencedirect.com/science/article/pii/S0922142513000601). _Japan and the World Economy International Journal of Theory and Policy_, 29:46-58.    
 - Felipe, J., Kumar, U., and Abdon, A. 2013. [Exports, Capabilities, and Industrial Policy in India](http://www.sciencedirect.com/science/article/pii/S0147596713000036). _Journal of Comparative Economics_, 41(3):939-956. 
@@ -173,7 +171,7 @@
 
 ## Trainings Attended
 
-**Modeling**    
+### Modeling    
 - Short Course on Regression Discontinuity Design (18-22 Aug 2014)
     - _Lecturer(s):_ Matias D. Cattaneo, University of Michigan
     - Philippine Institute for Development Studies 
@@ -188,7 +186,7 @@
     - _Lecturer(s):_ Paul Glewwe \& Oihui Chen, University of Minnesota	
     - Asian Development Bank  	
 
-**Macroecomics, Fiscal Policy, and Credit Ratings**
+### Macroecomics, Fiscal Policy, and Credit Ratings
 - Transfer Pricing Workshop (4-7 Dec 2018)
     - _Lecturer(s):_ Peter Barnes & Kash Mansori, Duke Center for International  Development
     - Department of Finance  
@@ -198,7 +196,7 @@
 - ICRA Limited, New Delhi, India
     - Internship Training on Credit Rating (30 Jun-26 Jul 2006)
 
-**Writing**
+### Writing
 - Asian Development Outlook Writers' Workshop (22-24 Jan 2014;  14-18 May 2013) 	
 
 ## Service
