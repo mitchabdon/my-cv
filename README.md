@@ -3,11 +3,19 @@
 [LinkedIn](https://www.linkedin.com/in/mitchabdon/)  
 [Blog: StataDaily](https://www.statadaily.com/)
 
+## 
+- 17+ years experience working with data for development, public policy, planning, and governance. 
+- Demonstrates strategic leadership in leading data analytics teams and digital transformation efforts in the public and development sector.
+- Past projects include initiating digital transformation in the Bureau of Internal Revenue, conceptualization and design of the Fiscal Incentives Registration and Monitoring System of the Fiscal Incentives Review Board, impact evaluation of the conditional cash transfer program, analysis of trade data in the context of product complexity and development, cost-benefit analysis of fiscal incentives, analysis of the tax incidence of tax reform proposals, and various analysis using macro- and micro-economic data.
+- Co-authored in peer-reviewed journals, including Oxford Development Studies, Journal of Comparative Economics, and Cambridge Journal of Economics.
+- 
 
 ## Education
 
 - University of California Berkeley, School of Information
     - Master of Information and Data Science (2021-2022)
+- Department of Defense, National Defense College of the Philippines
+    - Master in National Security Administration, Executive Class (2020-2021)    
 - University of the Philippines Diliman, School of Economics
     - MA Economics (2002-2004)  
     - _Recipient_, Philippine Center for Economic Development (PCED) Scholarship
@@ -18,8 +26,7 @@
 
 ## Executive Education
 
-- Department of Defense, National Defense College of the Philippines
-    - Master in National Security Administration, Executive Class (2020-2021)
+
 - United States Department of State International Visitor Leadership Program
     - Digital Tech for Ease of Doing Business and Transparency in Governance (Nov 2021)
 - Massachusetts Institute of Technology on MIT xPro
@@ -35,37 +42,35 @@
 
 
 ## Skills
-- Programming languages: Python, SQL, R, Stata
+- Programming languages: Stata, R, Python, SQL, Matlab 
 - Platforms/tools: Github, GCP, Google Big Query, PySpark
-- Methods: Causal inference, econometrics
+- Methods: Research Design, Causal Inference, Econometrics
 - Language: English, Filipino
 
 
 ## International Organization Experience
 
 **World Bank**
-- Technical Advisor (17 Mar 2021-present)
+- Consultant, _Technical Advisor_ (17 Mar 2021-present)
     - Provides technical guidance on the implementation of the national ID system, digital transformation of social protection delivery, and monitoring and evaluation of fiscal incentives.	
-- Economist (14 Jul 2014-31 Jun 2016) 
+- Consultant, _Economist_ (14 Jul 2014-31 Jun 2016) 
     - Contributed to the Mindanao Jobs Report, research work on land dispossession and conflict in Mindanao, needs assessment of MILF combatants, and the Bangsamoro Development Plan (recipient of the World Bank FY15 VPU Team Award)
-- Economist (12 Apr-30 Sep 2011)
+- Consultant, _Economist_ (12 Apr-30 Sep 2011)
     - Conducted learning sessions on data management and analysis for DSWD  
     - Wrote a short note on social protection targeting: _Where are the Poor? Using the National Household Targeting System for Poverty Reduction to Locate the Poor_
 	
 **Asian Development Bank**
-- Economist (14 Nov 2017-14 March 2018)
-    - Philippine Country Office 
+- Consultant, _Economist_ (14 Nov 2017-14 March 2018), Philippine Country Office 
     - Provided overall guidance and technical support to the Department of Finance in the area of economic and statistical research, including estimation of the impact of the proposed tax reforms on households and on the macroeconomy
     - Conducted workshops on statistical and econometric analysis to DOF staff 
-- Economics Officer (03 Oct 2011-02 May 2014)
-    - Macroeconomics and Finance Research, Economics and Research Department 
+- _Economics Officer_ (03 Oct 2011-02 May 2014), Macroeconomics and Finance Research, Economics and Research Department 
     - Co-authored the Singapore chapter of the Asian Development Outlook (2013 and 2014)
     - Conducted research and co-published papers on macroeconomics and finance
-- Economic Analyst (17 Oct 2008-31 Aug 2011)
+- Consultant, _Economic Analyst_ (17 Oct 2008-31 Aug 2011)
     - Regional Cooperation and Operations Coordination, Central and West Asia Department 
     - Provided analytical and statistical support to the department's research program
     - Co-authored a number of peer reviewed publications on the subject of structural transformation in the context of the product space literature 
-- Economic Analyst (30 Oct 2007-15 Oct 2008)
+- Consultant, _Economic Analyst_ (30 Oct 2007-15 Oct 2008)
     - Office of Regional Economic Integration, Economics and Research Department
     - Provided research support to research undertaken by professional staff on topics related to monetary policy and economic integration
 
