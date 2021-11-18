@@ -44,10 +44,12 @@
 
 
 ## Skills
-- Programming languages: Stata, R, Python, SQL, Matlab 
-- Platforms/tools: Github, GCP, Google Big Query, PySpark
-- Methods: Research Design, Causal Inference, Econometrics
-- Language: English, Filipino
+| Type | Skills |
+| --- | --- |
+| Programming languages: | Stata, R, Python, SQL, Matlab |
+| Platforms/tools: | Github, GCP, Google Big Query, PySpark, Cloudera, Docker |
+| Methods: | Research Design, Causal Inference, Econometrics |
+| Language: | English, Filipino (Tagalog, Visayan, Ilocano, Hiligaynon)| 
 
 
 ## International Organization Experience
@@ -94,7 +96,8 @@
 
 ### Department of Finance
   
-- _Director IV_ (15 Mar 2018-15 Mar 2021),Strategy, Economics, and Results Group (SERG), Fiscal Economics Research Office 
+- _Director IV_ (15 Mar 2018-15 Mar 2021)   
+    - Strategy, Economics, and Results Group (SERG), Fiscal Economics Research Office 
     - Led the conduct of research and analytics to support the tax reform program, including estimation of the impact of reforms on the economy and the people and cost-benefit analysis of fiscal incentives
     - Supported the implementation of the national ID system in improving the registration processes and in analyzing registration data 	
     - Initiated activities towards digital transformation at the Bureau of Internal Revenue (BIR)	
@@ -121,13 +124,13 @@
 
 ### Kalayaan College
 - Assistant Professorial Lecturer
-    - Elements of Mathematical Economics (1st Sem AY 2007-08; 1st and 2nd Sem AY 2005-06; 1st Sem AY 2003-04)
-    - Introduction to Econometrics (1st and 2nd Sem AY 2005-06; 2nd Sem AY 2004-05) 
+    - Elements of Mathematical Economics (Sem 1 AY 2007-08; Sem 1-2 AY 2005-06; Sem 1 AY 2003-04)
+    - Introduction to Econometrics Sem 1-2 AY 2005-06; Sem 2 AY 2004-05) 
 
 ### University of the Philippines, School of Economics
 - Teaching Fellow
-    - Introduction to Microeconomics (1st and 2nd Sem AY 2005-06; 2nd Sem AY 2003-04)
-    - Introduction to Macroeconomics (2nd Sem AY 2004-05; 1st Sem AY 2003-04)
+    - Introduction to Microeconomics (Sem 1-2 AY 2005-06; Sem 2 AY 2003-04)
+    - Introduction to Macroeconomics (Sem 2 AY 2004-05; Sem 1 AY 2003-04)
 
 ### Development Academy of the Philippines
 - Guest Instructor
