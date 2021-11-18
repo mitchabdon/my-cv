@@ -44,13 +44,14 @@
 
 
 ## Skills
+
 | Type | Skills |
 | --- | --- |
 | Programming languages: | Stata, R, Python, SQL, Matlab |
 | Platforms/tools: | Github, GCP, Google Big Query, PySpark, Cloudera, Docker |
 | Methods: | Research Design, Causal Inference, Econometrics |
 | Language: | English, Filipino (Tagalog, Visayan, Ilocano, Hiligaynon)| 
-
+| | |
 
 ## International Organization Experience
 
