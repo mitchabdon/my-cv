@@ -3,31 +3,34 @@
 [LinkedIn](https://www.linkedin.com/in/mitchabdon/)  
 [Blog: StataDaily](https://www.statadaily.com/)
 
-## 
-- 17+ years experience working with data for development, public policy, planning, and governance. 
-- Demonstrates strategic leadership in leading data analytics teams and digital transformation efforts in the public and development sector.
-- Past projects include initiating digital transformation in the Bureau of Internal Revenue, conceptualization and design of the Fiscal Incentives Registration and Monitoring System of the Fiscal Incentives Review Board, impact evaluation of the conditional cash transfer program, analysis of trade data in the context of product complexity and development, cost-benefit analysis of fiscal incentives, analysis of the tax incidence of tax reform proposals, and various analysis using macro- and micro-economic data.
-- Co-authored in peer-reviewed journals, including Oxford Development Studies, Journal of Comparative Economics, and Cambridge Journal of Economics.
-- 
+## Summary
+> 17+ years experience working with data for development, public policy, planning, and governance. 
+>
+> Demonstrates strategic leadership in leading data analytics teams and digital transformation efforts in the public and development sector.
+>
+> Past projects include initiating digital transformation in government agencies, conceptualization and design of registration and monitoring system, impact evaluation of the government programs, and analysis of product complexity and development.
+>
+> Co-authored in peer-reviewed journals, including _Oxford Development Studies_, _Journal of Comparative Economics_, and _Cambridge Journal of Economics_.
+>
+> Data scientist focused on _research design_, _modeling_, and _causal inference_.
 
 ## Education
 
-- University of California Berkeley, School of Information
+- University of California - Berkeley, School of Information
     - Master of Information and Data Science (2021-2022)
 - Department of Defense, National Defense College of the Philippines
     - Master in National Security Administration, Executive Class (2020-2021)    
-- University of the Philippines Diliman, School of Economics
+- University of the Philippines - Diliman, School of Economics
     - MA Economics (2002-2004)  
     - _Recipient_, Philippine Center for Economic Development (PCED) Scholarship
-- University of the Philippines Diliman, Institute of Mathematics
+- University of the Philippines - Diliman, Institute of Mathematics
     - BS Mathematics (1997-2001)  
     - _Recipient_, Department of Science and Technology (DOST) Scholarship
 
 
-## Executive Education
+## Executive Courses
 
-
-- United States Department of State International Visitor Leadership Program
+- United States Department of State, International Visitor Leadership Program
     - Digital Tech for Ease of Doing Business and Transparency in Governance (Nov 2021)
 - Massachusetts Institute of Technology on MIT xPro
     - Data Science and Big Data Analytics: Making Data-Driven Decisions (May-Jun 2020)
@@ -75,24 +78,25 @@
     - Provided research support to research undertaken by professional staff on topics related to monetary policy and economic integration
 
 **USAID-Facilitating Public Investment**
-- Monitoring and Evaluation Specialist (14 Mar 2016-14 Nov 2017)
+- _Monitoring and Evaluation Specialist_ (14 Mar 2016-14 Nov 2017)
     - Provided technical support to the DOF in pushing for the government's comprehensive tax reform agenda, particularly, in estimating the impact of the proposed tax reform on households
     - Conducted training on data management and analysis to DOF staff
-- Economist (14 Apr-7 Oct 2015)
+- Consultant, _Economist_ (14 Apr-7 Oct 2015)
     - Developed revenue forecasting models for the Fiscal Intelligence Unit, Department of Finance
     - Developed algorithms to identify misclassification and undervaluation of imports
     - Conducted training on data management and analysis
  
 **Asia Foundation**
-- Coalitions for Change - Disaster Risk Reduction 
+- Consultant, _Economist_ (4 Dec 2014-30 Jun 2015) 
     - Developed a concept note on rental housing voucher subsidy system for informal settler families along Metro Manila waterways 
 
 
 ## Government Experience
 
 **Department of Finance**
-- Director IV (15 Mar 2018-15 Mar 2021)
-- Fiscal Economics Research Office; Strategy, Economics, and Results Group (SERG)
+- Strategy, Economics, and Results Group (SERG), Fiscal Economics Research Office   
+- _Director IV_ (15 Mar 2018-15 Mar 2021)
+
     - Led the conduct of research and analytics to support the tax reform program, including estimation of the impact of reforms on the economy and the people and cost-benefit analysis of fiscal incentives
     - Supported the implementation of the national ID system in improving the registration processes and in analyzing registration data 	
     - Initiated activities towards digital transformation at the Bureau of Internal Revenue (BIR)	
@@ -103,19 +107,19 @@
 **Department of Social Welfare and Development**
 - Economist (22 May-21 Nov 2014) 
     - Co-led the impact evaluation of the Pantawid Pamilyang Pilipino Program
-    - [Keeping children healthy and in school](https://pantawid.dswd.gov.ph/wp-content/uploads/2018/07/Pantawid-Pamilya-Impact-Evaluation-2014-Report-Final.pdf): Evaluating the Pantawid Pamilya Using Regression Discontinuity Design, Second Wave Impact Evaluation Results
+    - _[Keeping children healthy and in school](https://pantawid.dswd.gov.ph/wp-content/uploads/2018/07/Pantawid-Pamilya-Impact-Evaluation-2014-Report-Final.pdf): Evaluating the Pantawid Pamilya Using Regression Discontinuity Design, Second Wave Impact Evaluation Results_
 
 
 ## Industry Experience
 
-**Institute for Development and Econometric Analysis, Inc.,**
+**Institute for Development and Econometric Analysis, Inc.**
 - Director for Research (11 Nov 2004-15 Nov 2007)
     - Led the development and maintenance of a small macroeconomic forecasting model for the Philippine economy 
     - Managed client-specific research projects
-    - Edited publications prepared by research and student assistants
+    - Reviewed and edited reports and publications
 
 
-## Teaching and Training Experience
+## Teaching Experience
 
 **Kalayaan College**
 - Assistant Professorial Lecturer
@@ -134,9 +138,9 @@
     
 ***Resource Person***
 - Bureau of Local Government Finance
-    - Introduction to Stata (25-29 January 2016)
+    - Introduction to Stata (25-29 Jan 2016)
 - Philippine Institute for Development Studies and International Initiative for Impact Evaluation (3ie)
-    - Regression Discontinuity Design (13 January 2016)
+    - Regression Discontinuity Design (13 Jan 2016)
     - Impact Evaluation Course: How to Design and Conduct Impact Evaluation		  
 - Governance Commission for GOCCs
     - Data management and processing using Stata (30 Oct; 7, 21, 28 Nov; 5 Dec 2014)
@@ -167,9 +171,38 @@
 - Vaughn, M. G., Shook, J. J., Perron, B. E., Abdon, A., and Ahmendani, B. 2011. [Patterns and Correlates of Illicit Drug Selling among Youth in the USA](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3286610/). _Substance Abuse and Rehabilitation_, 2011(2): 103-111.
 - Abdon, A. and Hernando, R. 2008.  [What Drives the Peso's REER Index? Some Implications on Competitiveness](http://www.bsp.gov.ph/publications/regular_bsrev08.asp). _Banko Sentral Review_, 2008. 
 
+## Trainings Attended
+
+**Modeling**    
+- Short Course on Regression Discontinuity Design (18-22 Aug 2014)
+    - _Lecturer(s):_ Matias D. Cattaneo, University of Michigan
+    - Philippine Institute for Development Studies 
+    and Asian Development Bank
+- Advanced Quantitative Analysis of Cross Section Data (20 May-4 Jun 2013)
+    - _Lecturer(s):_ Dennis Mapa, University of the Philippines	
+    - Asian Development Bank  
+- Quantitative Analysis of Panel Data and Time Series Econometrics (5-8 Nov 2013)
+    - _Lecturer(s):_ Dennis Mapa, University of the Philippines	
+    - Asian Development Bank  
+- Impact Evaluation Methods and Applications (28-31 Jan 2013)
+    - _Lecturer(s):_ Paul Glewwe \& Oihui Chen, University of Minnesota	
+    - Asian Development Bank  	
+
+**Macroecomics, Fiscal Policy, and Credit Ratings**
+- Transfer Pricing Workshop (4-7 Dec 2018)
+    - _Lecturer(s):_ Peter Barnes & Kash Mansori, Duke Center for International  Development
+    - Department of Finance  
+- Financial Programming and Policies (18-29 Jun 2012)    
+    - _Lecturer(s):_ IMF Singapore Regional Training Institute
+    - Asian Development Bank  
+- ICRA Limited, New Delhi, India
+    - Internship Training on Credit Rating (30 Jun-26 Jul 2006)
+
+**Writing**
+- Asian Development Outlook Writers' Workshop (22-24 Jan 2014;  14-18 May 2013) 	
 
 ## Service
-- Reservist (LT COL), Philippine Army  
-- Reviewer, Eurasian Economic Review, Springer
+- _Reservist (LT COL)_, Philippine Army  
+- _Reviewer_, _Eurasian Economic Review_, Springer
 
 
