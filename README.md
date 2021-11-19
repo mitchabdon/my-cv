@@ -7,7 +7,7 @@
 >
 > Demonstrates strategic leadership in leading data analytics teams and digital transformation efforts in the public and development sector.
 >
-> Past projects include initiating digital transformation in government agencies, conceptualization and design of registration and monitoring system, impact evaluation of the government programs, and analysis of product complexity and development.
+> Past projects include initiating digital transformation in government agencies, conceptualization and design of registration and monitoring system, impact evaluation of government programs, and analysis of product complexity and development.
 >
 > Co-authored in peer-reviewed journals, including _Oxford Development Studies_, _Journal of Comparative Economics_, and _Cambridge Journal of Economics_.
 >
