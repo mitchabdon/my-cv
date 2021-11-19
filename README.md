@@ -109,7 +109,7 @@
 
 ### Department of Social Welfare and Development
 - Consultant, _Economist_ (22 May-21 Nov 2014) 
-    - Co-led the impact evaluation of the Pantawid Pamilyang Pilipino Program
+    - Co-led the impact evaluation of the Pantawid Pamilyang Pilipino Program (a national cash transfer program)
     - _[Keeping children healthy and in school](https://pantawid.dswd.gov.ph/wp-content/uploads/2018/07/Pantawid-Pamilya-Impact-Evaluation-2014-Report-Final.pdf): Evaluating the Pantawid Pamilya Using Regression Discontinuity Design, Second Wave Impact Evaluation Results_
 
 
