@@ -58,7 +58,7 @@
 
 ### World Bank
 - Consultant, _Technical Advisor_ (17 Mar 2021-present)
-    - Provides technical guidance on the implementation of the national ID system, digital transformation of social protection delivery, and monitoring and evaluation of fiscal incentives.	
+    - Provides technical guidance in the implementation of the national ID system, digital transformation of social protection delivery, and monitoring and evaluation of fiscal incentives.	
 - Consultant, _Economist_ (14 Jul 2014-31 Jun 2016) 
     - Contributed to the Mindanao Jobs Report, research work on land dispossession and conflict in Mindanao, needs assessment of MILF combatants, and the Bangsamoro Development Plan (recipient of the World Bank FY15 VPU Team Award)
 - Consultant, _Economist_ (12 Apr-30 Sep 2011)
