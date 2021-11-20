@@ -2,6 +2,7 @@
 <mitchabdon@berkeley.edu>  
 [LinkedIn](https://www.linkedin.com/in/mitchabdon/)  | [Blog: StataDaily](https://www.statadaily.com/)
 
+
 ## Summary
 > 17+ years experience working with data for development, public policy, planning, and governance. 
 >
@@ -12,6 +13,7 @@
 > Co-authored in peer-reviewed journals, including _Oxford Development Studies_, _Journal of Comparative Economics_, and _Cambridge Journal of Economics_.
 >
 > Data scientist focused on _privacy engineering_, _experimental design_, _causal inference_, and _prediction_.
+
 
 ## Education
 
@@ -39,8 +41,6 @@
 - **Harvard University**, John F. Kennedy School of Government
     - Digital Transformation in Government (Mar 2019)
     - Comparative Tax Policy and Administration (Aug 2018) 
-- **Japan Ministry of Finance**, Policy Research Institute
-    - Seminar on Economic Policies (May-Jun 2019)
 
 
 ## Skills
@@ -174,6 +174,7 @@
 - Vaughn, M. G., Shook, J. J., Perron, B. E., Abdon, A., and Ahmendani, B. 2011. [Patterns and Correlates of Illicit Drug Selling among Youth in the USA](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3286610/). _Substance Abuse and Rehabilitation_, 2011(2): 103-111.
 - Abdon, A. and Hernando, R. 2008.  [What Drives the Peso's REER Index? Some Implications on Competitiveness](http://www.bsp.gov.ph/publications/regular_bsrev08.asp). _Banko Sentral Review_, 2008. 
 
+
 ## Trainings Attended
 
 ### Modeling    
@@ -188,10 +189,12 @@
     - _Lecturer(s):_ Dennis Mapa, University of the Philippines	
     - Asian Development Bank  
 - Impact Evaluation Methods and Applications (28-31 Jan 2013)
-    - _Lecturer(s):_ Paul Glewwe \& Oihui Chen, University of Minnesota	
+    - _Lecturer(s):_ Paul Glewwe and Oihui Chen, University of Minnesota	
     - Asian Development Bank  	
 
 ### Macroecomics, Fiscal Policy, and Credit Ratings
+- Seminar on Economic Policies (May-Jun 2019)
+    - Japan Ministry of Finance, Policy Research Institute
 - Transfer Pricing Workshop (4-7 Dec 2018)
     - _Lecturer(s):_ Peter Barnes & Kash Mansori, Duke Center for International  Development
     - Department of Finance  
