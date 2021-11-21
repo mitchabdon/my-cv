@@ -29,18 +29,22 @@
 
 ## Executive/Professional Programs
 
-- **Department of Defense**, National Defense College of the Philippines
-    - Master in National Security Administration, Executive Course (2020-2021)   
-- **United States Department of State, International Visitor Leadership Program**
-    - Digital Tech for Ease of Doing Business and Transparency in Governance (Nov 2021)
-- **Massachusetts Institute of Technology** on MIT xPro
-    - Data Science and Big Data Analytics: Making Data-Driven Decisions (May-Jun 2020)
-- **University of Virginia** on Coursera
-    - Agile Development Specialization (Jul 2019-Jan 2020)
-    - _Capstone_: Online registration and updating system for taxpayers
-- **Harvard University**, John F. Kennedy School of Government
-    - Digital Transformation in Government (Mar 2019)
-    - Comparative Tax Policy and Administration (Aug 2018) 
+- **Digital Transformation / Data Science**    
+    - Digital Tech for Ease of Doing Business and Transparency in Governance (Nov 2021)   
+    	- United States Department of State, International Visitor Leadership Program (IVLP)
+    - Data Science and Big Data Analytics: Making Data-Driven Decisions (May-Jun 2020)   
+    	- Massachusetts Institute of Technology on MIT xPro  
+    - Agile Development Specialization (Jul 2019-Jan 2020)  
+    	- University of Virginia on Coursera  
+    	- _Capstone_: Online registration and updating system for taxpayers  
+    - Digital Transformation in Government (Mar 2019)   
+    	- Harvard University, John F. Kennedy School of Government  
+- **National Security**  
+    - Master in National Security Administration, Executive Course (2020-2021)  
+    	- Department of Defense, National Defense College of the Philippines 	 
+- **Public Policy**  
+    - Comparative Tax Policy and Administration (Aug 2018)   
+    	- Harvard University, John F. Kennedy School of Government  
 
 
 ## Skills
