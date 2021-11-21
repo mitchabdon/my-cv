@@ -8,19 +8,17 @@
 >
 > Demonstrates strategic leadership in leading data analytics teams and digital transformation efforts in the public and development sector.
 >
-> Past projects include initiating digital transformation in government agencies, conceptualization and design of registration and monitoring system, impact evaluation of government programs, and analysis of product complexity and development.
+> Past projects include initiating digital transformation in government agencies, conceptualization and design of registration and monitoring system, and impact evaluation of government programs.
 >
 > Co-authored in peer-reviewed journals, including _Oxford Development Studies_, _Journal of Comparative Economics_, and _Cambridge Journal of Economics_.
 >
-> Data scientist focused on _privacy engineering_, _experimental design_, _causal inference_, and _prediction_.
+> Data scientist focused on _experimental design_, _causal inference_, _statistical methods_, _prediction_, and _privacy engineering_.
 
 
 ## Education
 
 - **University of California - Berkeley**, School of Information
-    - Master of Information and Data Science (2021-2022)
-- **Department of Defense**, National Defense College of the Philippines
-    - Master in National Security Administration, Executive Class (2020-2021)    
+    - Master of Information and Data Science (2021-2022) 
 - **University of the Philippines - Diliman**, School of Economics
     - MA Economics (2002-2004)  
     - _Recipient_, Philippine Center for Economic Development (PCED) Scholarship
@@ -29,8 +27,10 @@
     - _Recipient_, Department of Science and Technology (DOST) Scholarship
 
 
-## Executive Courses
+## Executive/Professional Programs
 
+- **Department of Defense**, National Defense College of the Philippines
+    - Master in National Security Administration, Executive Course (2020-2021)   
 - **United States Department of State, International Visitor Leadership Program**
     - Digital Tech for Ease of Doing Business and Transparency in Governance (Nov 2021)
 - **Massachusetts Institute of Technology** on MIT xPro
