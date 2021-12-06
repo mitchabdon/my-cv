@@ -39,12 +39,12 @@
     	- _Capstone_: Online registration and updating system for taxpayers  
     - Digital Transformation in Government (Mar 2019)   
     	- Harvard University, John F. Kennedy School of Government  
-- **National Security**  
-    - Master in National Security Administration, Executive Course (2020-2021)  
-    	- Department of Defense, National Defense College of the Philippines 	 
 - **Public Policy**  
     - Comparative Tax Policy and Administration (Aug 2018)   
     	- Harvard University, John F. Kennedy School of Government  
+- **National Security**  
+    - Master in National Security Administration, Executive Course (2020-2021)  
+    	- Department of Defense, National Defense College of the Philippines 	 
 
 
 ## Skills
@@ -212,6 +212,7 @@
 - Asian Development Outlook Writers' Workshop (22-24 Jan 2014;  14-18 May 2013) 	
 
 ## Service
+- _Mentor_, [Young Data Scientists League](https://www.youngdatascientists.org/) 
 - _Reservist (LT COL)_, Philippine Army  
 - _Reviewer_, _Eurasian Economic Review_, Springer
 
