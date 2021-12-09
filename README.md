@@ -27,7 +27,7 @@
     - _Recipient_, Department of Science and Technology (DOST) Scholarship
 
 
-## Executive/Professional Programs
+## Executive Programs
 
 - **Digital Transformation / Data Science**    
     - Digital Tech for Ease of Doing Business and Transparency in Governance (Nov 2021)   
