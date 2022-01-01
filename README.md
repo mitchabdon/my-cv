@@ -18,7 +18,8 @@
 ## Education
 
 - **University of California - Berkeley**, School of Information
-    - Master of Information and Data Science (2021-2022) 
+    - Master of Information and Data Science (2021-present)
+    - _Expected graduation:_ Dec 2022 
 - **University of the Philippines - Diliman**, School of Economics
     - MA Economics (2002-2004)  
     - _Recipient_, Philippine Center for Economic Development (PCED) Scholarship
@@ -185,7 +186,7 @@
 
 ## Trainings Attended
 
-### Modeling    
+### Statistical Modeling    
 - Short Course on Regression Discontinuity Design (18-22 Aug 2014)
     - _Lecturer(s):_ Matias D. Cattaneo, University of Michigan
     - Philippine Institute for Development Studies 
@@ -211,8 +212,6 @@
     - Asian Development Bank  
 - ICRA Limited, New Delhi, India
     - Internship Training on Credit Rating (30 Jun-26 Jul 2006)
-
-### Writing
-- Asian Development Outlook Writers' Workshop (22-24 Jan 2014;  14-18 May 2013) 	
+	
 
 
