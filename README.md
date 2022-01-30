@@ -58,8 +58,8 @@
 | --- 			| --- 										|
 | Programming 		| Stata ([blog](https://www.statadaily.com/)), R, Python, SQL, Matlab 		|
 | Platforms/tools 	| Github, Jupyter Notebook, GCP, Google Big Query, PySpark, Cloudera, Docker 	|
-| Methods 		| Experimental Design, Causal Inference, Prediction, Econometrics 		|
-| Visualization		| Tableau, PowerBI, Stata, R, Python 						|
+| Methods 		| Experimental Design, Causal Inference, Machine Learning, Econometrics 	|
+| Visualization		| Tableau, PowerBI, Stata, R, Python, Matlab 					|
 | Typesetting		| Markdown, LaTex 								|
 | Language 		| English, Filipino (Tagalog, Visayan, Ilocano, Hiligaynon)			| 
 
