@@ -12,7 +12,7 @@
 >
 > Co-authored in peer-reviewed journals, including _Oxford Development Studies_, _Journal of Comparative Economics_, and _Cambridge Journal of Economics_.
 >
-> Data scientist focused on _experimental design_, _causal inference_, _statistical methods_, _prediction_, and _privacy engineering_.
+> Data scientist focused on _experimental design_, _causal inference_, _prediction_, and _privacy engineering_.
 
 
 ## Education
@@ -67,7 +67,7 @@
 
 ### World Bank
 - Consultant, _Technical Advisor_ (17 Mar 2021-present)
-    - Provides technical guidance in the implementation of the national ID system, digital transformation of social protection delivery, and monitoring and evaluation of fiscal incentives.	
+    - Provides technical guidance in the implementation of the national ID system, digital transformation of social protection delivery, and monitoring and evaluation of fiscal incentives	
 - Consultant, _Economist_ (14 Jul 2014-31 Jun 2016) 
     - Contributed to the Mindanao Jobs Report, research work on land dispossession and conflict in Mindanao, needs assessment of MILF combatants, and the Bangsamoro Development Plan (recipient of the World Bank FY15 VPU Team Award)
 - Consultant, _Economist_ (12 Apr-30 Sep 2011)
