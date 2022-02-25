@@ -1,0 +1,43 @@
+---
+layout: post
+title: My MIDS Courses
+excerpt: ""
+modified: 2/29/2016, 9:00:24
+tags: [mids, courses]
+comments: true
+category: blog
+---
+
+<table>
+  <thead>
+    <tr>
+      <th>Course</th>
+      <th>Description</th>
+      <th>Skils</th>
+    </tr>
+  </thead>
+  <tfoot>
+    <tr>
+      <td>Totals</td>
+      <td>21</td>
+      <td>23</td>
+    </tr>
+  </tfoot>
+  <tbody>
+    <tr>
+      <td>Alice</td>
+      <td>10</td>
+      <td>11</td>
+    </tr>
+    <tr>
+      <td>Bob</td>
+      <td>4</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>Charlie</td>
+      <td>7</td>
+      <td>9</td>
+    </tr>
+  </tbody>
+</table>
